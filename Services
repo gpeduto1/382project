@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<style>
+body 	{background-color: powerblue;}
+h1		{
+		color: blue;
+		font-family: verdana;
+		font-size: 200%;
+}
+p		{
+		color: red;
+		font-family: courier;
+		font-size: 75%;
+}
+</style>
+
+<body>
+
+<h1>Services</h1>
+
+
+<p><b>Insert Something.</b></p>
+
+
+<img src="March Madness Logo.jpg" width="250" height="250">
+
+</body>
+</html>
