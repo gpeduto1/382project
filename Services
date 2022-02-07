@@ -12,7 +12,7 @@ h1		{
         text-align: centre;
 }
 h2		{
-		color: darkgreen;
+		color: darkblue;
         font-family:comic sans;
         font-size:200%
 }
@@ -21,29 +21,29 @@ h3		{
 		font-family:comic sans;
 		font-size:150%
 }
+h4		{
+		color: black;
+}
 ol		{
 		color:green;
 		font-family:times new romans;
         font-size:100%
 }
 p		{
+		background-color: yellow;
 		color: black;
 		font-family: times new romans;
 		font-size: 85%;
 }
 </style>
 <body>
-
 	<h1>March Madness</h1>
     
-
-
 	<img src="March Madness Logo.jpg" width="250" height="250">
 
 	<h2>Services</h2>
 <br>
-<br>
-	<h3>List of servies<h/3>
+	<h3><u>List of servies</u></h3>
 
 	<ol>
 		<li>Tickets</li>
@@ -51,10 +51,21 @@ p		{
 		<li>Basetball training</li>
 	<ol>
 <br>
-	<p>
+	<h4>
     	<b>March Madness Calendar.</b>
-    </p>
-	<a href="https://www.ncaa.com/">Calendar</a>
+    </h4>
+	<a href="https://www.ncaa.com/"><i>Calendar</i></a>
+
+<br>
+<br>
+
+	<p>Date/Time: <span id="datetime"></span></p>
+
+<script> var dt = new Date();
+document.getElementById("datetime").innerHTML = (("0"+(dt.getMonth()+1)).slice(-2)) +"/"+ (("0"+dt.getDate()).slice(-2)) +"/"+ (dt.getFullYear()) 
+</script>
+
 
 </body>
 </html>
+
