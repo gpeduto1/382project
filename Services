@@ -8,24 +8,41 @@ body 	{background-color: powerblue;}
 h1		{
 		color: blue;
 		font-family: verdana;
-		font-size: 200%;
+		font-size: 300%;
+}
+h2		{
+		color: darkgreen;
+        font-family:comic sans;
+        font-size:200%
+}
+h3		{
+		color: green;
+		font-family:comic sans;
+		font-size:100%
 }
 p		{
 		color: red;
-		font-family: courier;
+		font-family: times new romans;
 		font-size: 75%;
 }
 </style>
-
 <body>
 
-<h1>Services</h1>
-
-
-<p><b>Insert Something.</b></p>
-
+<h1>March Madness</h1>
 
 <img src="March Madness Logo.jpg" width="250" height="250">
+
+<h2>Services</h2>
+
+<h3>List of servies<h/3>
+
+<p>
+	<li>Tickets
+	<li>Streaming
+	<li>Basetball training
+<p>
+	
+<p><b>Insert Something.</b></p>
 
 </body>
 </html>
