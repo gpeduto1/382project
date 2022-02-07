@@ -21,28 +21,28 @@ h3		{
 		font-size:100%
 }
 p		{
-		color: red;
+		color: black;
 		font-family: times new romans;
 		font-size: 75%;
 }
 </style>
 <body>
 
-<h1>March Madness</h1>
+	<h1>March Madness</h1>
 
-<img src="March Madness Logo.jpg" width="250" height="250">
+	<img src="March Madness Logo.jpg" width="250" height="250">
 
-<h2>Services</h2>
+	<h2>Services</h2>
 
-<h3>List of servies<h/3>
+	<h3>List of servies<h/3>
 
-<p>
-	<li>Tickets
-	<li>Streaming
-	<li>Basetball training
-<p>
+	<ol>
+		<li>Tickets</li>
+		<li>Streaming</li>
+		<li>Basetball training</li>
+	<ol>
 	
-<p><b>Insert Something.</b></p>
+	<p><b>Insert Something.</b></p>
 
 </body>
 </html>
