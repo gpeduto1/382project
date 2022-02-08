@@ -2,7 +2,9 @@
 <html>
 	<head>
 		<style>
-		
+        body	{
+        		background-color:grey;
+        }
 		h1		{
 				color: gold;
 				font-family: verdana;
@@ -10,12 +12,12 @@
         		text-align: centre;
 		}
 		h2		{
-				color: dimgrey;
+				color: darkorange;
         		font-family:comic sans;
         		font-size:200%
 		}
 		h3		{
-				color: darkblue;
+				color: orange;
 				font-family:comic sans;
 				font-size:150%
 		}
@@ -23,7 +25,7 @@
 				color: black;
 		}
 		ol		{
-				color: blue;
+				color: orange;
 				font-family:times new romans;
         		font-size:100%
 		}
@@ -80,5 +82,3 @@
 			</footer>
 	</body>
 </html>
-
-
