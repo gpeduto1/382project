@@ -2,9 +2,10 @@
 <html>
 <head>
 <title>Page Title</title>
-</head>
 <style>
-body 	{background-color: powerblue;}
+body 	{
+		background-color: powerblue;
+}
 h1		{
 		color: blue;
 		font-family: verdana;
@@ -36,7 +37,8 @@ p		{
 		font-size: 85%;
 }
 </style>
-<body>
+</head>
+
 	<h1>March Madness</h1>
     
 	<img src="March Madness Logo.jpg" width="250" height="250">
@@ -58,14 +60,24 @@ p		{
 
 <br>
 <br>
-
+<footer>
 	<p>Date/Time: <span id="datetime"></span></p>
 
 <script> var dt = new Date();
 document.getElementById("datetime").innerHTML = (("0"+(dt.getMonth()+1)).slice(-2)) +"/"+ (("0"+dt.getDate()).slice(-2)) +"/"+ (dt.getFullYear()) 
 </script>
 
+	<p> For Questions:
+		<a href="mailto:yrepi@purdue.edu?= Mail from our Website">Contact Me</a>
+	<address>
+		<p> Location:</p>
+	610 Purdue Mall, West Lafayette 
+	<br>
+	IN 47907
 
+	</address>
+</footer>
 </body>
 </html>
+
 
