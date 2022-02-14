@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+        body	{
+        		background-color:lightblue;
+        }
+		h1		{
+				color: ghostwhite;
+				font-family: monospace;
+				font-size: 600%;
+        		text-align: center;
+		}
+		h2		{
+				color: ghostwhite;
+        		font-family:comic sans;
+        		font-size:200%;
+        		text-align: center;
+		}
+		h3		{
+				color: navy;
+				font-family:comic sans;
+				font-size:150%;
+				text-align: right;
+		}
+		li      {
+				color: royalblue;
+				text-align: right;
+		}
+		h4		{
+				color: navy;
+				font-family:comic sans;
+				font-size:150%;
+				text-align: left;
+		}
+		ol		{
+				color: royalblue;
+				font-family:times new romans;
+        		font-size:100%;
+        		text-align: left;
+		}
+		p		{
+				color: black;
+				font-family: times new romans;
+				font-size: 85%;
+				text-align: center;
+		}
+		address	{
+				color: royalblue;
+				text-align: center;
+		}
+        footer {
+        		padding: 10px 20px;
+        }
+		</style>
+	</head>
+	<body>
+    	<div class="main-content">
+		<h1><b>Management Team</b></h1>
+    
+		<img src="management-team-example.jpg" alt= "The Management Team" width="1340" height="550" class= "center" >
+
+			<h2>Introducing: the Management Team</h2>
+			<br>
+				<h3><u>Owners</u></h3>
+
+					<li>Michael Smith</li>
+					<li>Michelle Smith</li>
+			<br>
+					<h4><u>Executives, in Seniority Order</u></h4>
+					<ol>1. John Doe, CEO<ol>
+					<ol>2. Jane Doe, CFO<ol>
+					<ol>3. Jack Doe, COO<ol>
+					<ol>4. Jill Doe, CMO<ol>
+			<br>
+			<br>
+				<a href="https://www.ncaa.com/march-madness-live/bracket"><i>Live March Madness Bracket</i></a>
+
+			<br>
+			<br>
+			<br>
+				<a href="cfo-vs-ceo.png" download target="_blank">Click here to view the executive structure</a>
+			<br>
+			<br>
+        </div>
+			<footer>
+				<p>Date: <span id="datetime"></span></p>
+
+					<script> var dt = new Date(); document.getElementById("datetime").innerHTML = (("0"+(dt.getMonth()+1)).slice(-2)) +"/"+ (("0"+dt.getDate()).slice(-2)) +"/"+ (dt.getFullYear()) 
+					</script>
+
+					<p>
+						<a href="mailto:mandmmarchmadness@gmail.com?= Mail from our Website"><b>Contact</b></a>
+					<address>
+                    	503 W State St., West Lafayette, IN 47907
+
+					</address>
+			</footer>
+	</body>
+</html>
