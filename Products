@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Michelle and Michael's Products</title>
+  </head>
+<body style="background-color:GoldenRod;">
+
+<h1 style="border:3px; border-style:solid; border-color:Black; padding: 0.25em; font-size:225%; text-align:center; font-family:Serif">Michelle and Michael's Products</h1>
+
+<p style="text-align:center; color:White; font-family:arial"><i>Michelle and Michael's March Madness is dedicated to helping aspiring basketball players improve thier game.<br>Because we know that having the right equipment is crucial, we hand-picked some of our favorite products seen below.  Take the next step to success by investing in your game today!<br></i></p>
+
+  <p style="text-align:center; font-family:arial; background-color:White"><b><u>FOOTWEAR</u></b></p>
+  
+  <ol type = "1" style="text-align:center; font-family:arial">
+  <li>Socks - - - Nike Elite Basketball Crew Socks ($14.00)</li>
+  <li>Mens Shoes - - - Nike Kyrie 7 Basketball Shoes ($129.00)</li>
+  <li>Women's Shoes - - - Under Armour Women's Flow Breakthru 2 Basketball Shoes ($119.99)</li>
+  <li>Youth Shoes - - - Grade School Curry Flow 8 Baskeball Shoes ($130.00)</li>
+  </ol>
+  
+  <p style="text-align:center; font-family:arial; background-color:White"><b><u>APPAREL</u></b></p>
+  
+ <p style="text-align:center; font-family:arial">Follow this link to see the Jerseys worn for League Play: <a href="league jersey.jpg" download>League Jersey</a></p>
+
+<p style="text-align:center; font-family:arial"><b>All apparel, Mens, Womens, and Youth is available for purchase in sizes Small through Large</b></p>
+
+<center>
+<table border="1">
+  <tr>
+    <th></th>
+    <th>Mens</th>
+    <th>Womens</th>
+    <th>Youth</th>
+  </tr>
+  <tr>
+    <td><b>Jerseys</b></td>
+    <td style="text-align:center">Men's Champion Reversible Practice Basketball Jersey<br><img src="https://s7d7.scene7.com/is/image/GTMSportswear/15023TU?qlt=80,0&resMode=sharp2&fmt=png-alpha&hei=500&wid=500&layer=1&op_colorize=181818&layer=2&op_colorize=f6f6f6" alt="Black Men's Basketball Jersey" width="100" height="100"/><br>($16.99)<br></td>
+    <td style="text-align:center">Women's Champion Reversible Practice Basketball Jersey<br><img src="https://s7d7.scene7.com/is/image/GTMSportswear/15023TU?qlt=80,0&resMode=sharp2&fmt=png-alpha&hei=500&wid=500&layer=1&op_colorize=4b3078&layer=2&op_colorize=f6f6f6" alt="Purple Women's Basketball Jersey" width="100" height="100"/><br>($16.99)<br></td>
+    <td style="text-align:center">Youth Champion Reversible Practice Basketball Jersey<br><img src="https://s7d7.scene7.com/is/image/GTMSportswear/15023TU?qlt=80,0&resMode=sharp2&fmt=png-alpha&hei=500&wid=500&layer=1&op_colorize=a5263b&layer=2&op_colorize=f6f6f6" alt="Red Youth Basketball Jersey" width="100" height="100"/><br>($14.99)<br></td>
+</tr>
+<tr>
+  <td><b>Shorts</b></td>
+    <td style="text-align:center">Nike Dri-FIT DNA Men's Basketball Shorts<br><img src="https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/7fd5a9b8-75dc-4350-b476-37691de6b115/dri-fit-icon-mens-basketball-shorts-2c8F76.png" alt="Men's Basketball Shorts" width="100" height="100"/><br>($45.00)<br></td>
+    <td style="text-align:center">Women's UA Colorblock Basketball Shorts<br><img src="https://underarmour.scene7.com/is/image/Underarmour/V5-1364074-007_FC?rp=standard-0pad|pdpZoomDesktop&scl=0.72&fmt=jpg&qlt=85&resMode=sharp2&cache=on,on&bgc=f0f0f0&wid=1836&hei=1950&size=1500,1500" alt="Women's Basketball Shorts" width="100" height"100"/><br>($30.00)<br></td>
+    <td style="text-align:center">Nike Dri-FIT Elite Kids Basketball Shorts<br><img src="https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/067eb036-a1cf-437c-82cf-4b9d50acdbc9/dri-fit-elite-big-kids-boys-basketball-shorts-BGj2K6.png" alt="Youth Basketball Shorts" width="100" height="100"/><br>($32.00)<br></td>
+</tr>
+  </center>
+  </table>
+  
+  <p style="text-align:center; font-family:arial; background-color:White"><b><u>EQUIPMENT AND OTHER ESSENTIALS</u></b></p>
+  
+<ul type = "1"; style="text-align:center; font-family:arial">
+  <li>Waterbottle - - - Hydroflask 32 oz Wide Mouth ($44.95)</li>
+  <li>Shooting Sleeves - - - McDavid HEX Shooter Arm Sleeve ($24.99)</li>
+  <li>Backpack - - - ERANT Basketball Backpack with Ball Compartment ($34.99)</li>
+  <li>Basketball - - - Wilson Evolution Game Basketball ($69.95)</li>
+  <li>Basketball Hoop - - - Ryval C872 ($2,199.00)</li>
+</ul>
+  
+<p style="text-align:center; font-family:arial; color:White"><i>**For questions or more information regarding our products, please contact us at <a href="https://accounts.google.com/ServiceLogin/identifier?service=mail&passive=1209600&osid=1&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin" target="_blank">mandmmarchmadness@gmail.com</a>.**</i></p>
+  
+<script>
+         var date = document.lastModified;
+         document.write("Last Modified: "+date);
+      </script>
+
+</body>
+</html>
